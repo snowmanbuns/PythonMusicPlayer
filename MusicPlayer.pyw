@@ -5,6 +5,7 @@ from mutagen.mp3 import MP3
 import time
 import random
 import asyncio
+import platform
 
 # init program
 os.chdir('/Users/snowman/Desktop/Code/Music/All Songs/')
